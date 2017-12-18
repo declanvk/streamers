@@ -1,0 +1,6 @@
+[package]
+name = "streamers"
+version = "0.1.0"
+authors = ["Declan Kelly <dkelly.home@gmail.com>"]
+
+[dependencies]
